@@ -1,0 +1,26 @@
+h2
+{
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+
+.player
+{
+    width: 45%;
+    border: 0.5rem solid black;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.para
+{
+    font-size: 1.3rem;
+}
+
+body
+{
+    background-image: url("/img/c3.jpg");
+}
+
